@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color00008b&center=true&vCenter=true&width=1000&lines=Dev+Full+stack+com+foco+em+Back-end)](https://git.io/typing-svg)
 
   Atualmente estou cursando em Análise e desenvolvimento de sistemas.<br>
-  Decidi estudar programação no meio de 2023 e foi a melhor decisão que já tomei. <br>
+  Decidi estudar programação no meio de 2023 e foi a melhor decisão que já tomei até <br>
   Hoje. <br>
   
   
